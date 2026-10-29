@@ -1,4 +1,5 @@
--- Challenge - Joining on multiple tables
+-- Challenge 
+-- Joining on multiple tables
 -- Write SQL queries to perform the following tasks using the Sakila database:
 USE Sakila;
 -- List the number of films per category.
